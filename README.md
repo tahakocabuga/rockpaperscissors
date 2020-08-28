@@ -1,2 +1,7 @@
-# rockpaperscissors
-Simple rockpaperscissors game to practice some java 
+# Rock Paper Scissors
+
+This app is a simple Rock Paper Scissors game. 
+
+## How it works?
+
+<img src=”howtouse” alt=”https://media.discordapp.net/attachments/713024784862281749/748965967941337272/gif.gif”/>
