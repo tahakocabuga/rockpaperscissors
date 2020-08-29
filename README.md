@@ -21,7 +21,7 @@ There is only one java file but here you go.
 
 |             Question         |             Place         |
 |-------------------------------|-----------------------------|
-|`'Main'`                       |[Main.java](https://github.com/tahakocabuga/simpletodolist/blob/master/src/Main.java)            |
+|`'Main'`                       |[Main.java](https://github.com/tahakocabuga/rockpaperscissors/blob/master/src/Main.java)            |
 
 # Contact me 
 
