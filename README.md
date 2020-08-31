@@ -13,7 +13,7 @@ This project is for beginners. If you want to practice some Java then you can us
 
 ## How to use?
 
-If you have an Java IDE you can create a project and add Main.java in src folder then you can copy the code.
+If you have an Java IDE you can create a project and add Main.java in src folder then you can copy the code or just download.
 
 ### I can't find the codes
 
