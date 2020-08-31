@@ -25,4 +25,4 @@ There is only one java file but here you go.
 
 # Contact me 
 
-Discord : Tahigh#0001
+Discord : taha.#2020
